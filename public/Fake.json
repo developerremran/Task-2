@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "title": "Introduction to React.js",
+      "category": "Technology",
+      "description": "A beginner's guide to understanding React.js and its core concepts.",
+      "view": 3521,
+      "author": {
+        "name": "John Doe",
+        "image": "https://i.ibb.co/CsMG19G/emran-removebg.png"
+      },
+      "image": "https://i.ibb.co/8P6V5qR/20230615-121242.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Delicious Pasta Recipes",
+      "category": "Food",
+      "description": "Explore these mouthwatering pasta recipes to satisfy your cravings.",
+      "view": 4897,
+      "author": {
+        "name": "Jane Smith",
+        "image": "https://i.ibb.co/CsMG19G/emran-removebg.png"
+      },
+      "image": "https://i.ibb.co/8P6V5qR/20230615-121242.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Traveling to Stunning Destinations",
+      "category": "Travel",
+      "description": "Discover the most breathtaking destinations to visit on your next vacation.",
+      "view": 7362,
+      "author": {
+        "name": "Michael Johnson",
+        "image": "https://i.ibb.co/CsMG19G/emran-removebg.png"
+      },
+      "image": "https://i.ibb.co/8P6V5qR/20230615-121242.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Mastering JavaScript ES6",
+      "category": "Technology",
+      "description": "Learn advanced JavaScript concepts using the ECMAScript 6 standard.",
+      "view": 5419,
+      "author": {
+        "name": "Emily Brown",
+        "image": "https://i.ibb.co/CsMG19G/emran-removebg.png"
+      },
+      "image": "https://i.ibb.co/8P6V5qR/20230615-121242.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Tips for Successful Job Interviews",
+      "category": "Career",
+      "description": "Ace your next job interview with these useful tips and strategies.",
+      "view": 6183,
+      "author": {
+        "name": "Robert Johnson",
+        "image": "https://i.ibb.co/CsMG19G/emran-removebg.png"
+      },
+      "image": "https://i.ibb.co/8P6V5qR/20230615-121242.jpg"
+    }
+  ]
+  

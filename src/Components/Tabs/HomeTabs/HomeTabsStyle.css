@@ -1,0 +1,20 @@
+
+
+.mtop {
+    margin-top: 60px;
+}
+
+.textSize {
+    font-size: 20px;
+}
+
+.bottomBorder {
+    border-bottom: 2px solid black;
+}
+
+.react-tabs__tab:active {
+    border-bottom: 2px solid black;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}

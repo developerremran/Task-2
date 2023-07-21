@@ -1,0 +1,34 @@
+.mainWidth {
+    max-width: 1480px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+
+.text-Color {
+    color: #2F6CE5;
+}
+
+.listStyle {
+    list-style: none;
+}
+
+.tabLeftSide {
+    max-width: 900px;
+}
+
+.mtop {
+    margin-top: 60px;
+}
+
+.borderStyle {
+    border:2px solid black;
+    border-top: 'none';
+    border-left: none;
+    border-right: none;
+    border-bottom: 2px;
+   
+}
+
+.modal-content {
+    max-width: 900px;
+}
